@@ -16,7 +16,12 @@ Initial findings suggest that while individuals performed faster when guided by 
 ## Conclusion
 This project not only addresses the challenges faced by individuals with visual impairments during daily tasks but also advances the development of assistive technology that enhances autonomy and quality of life. By refining tactile feedback mechanisms, we aim to create a practical solution for improved object manipulation.
 
-## Installation and Usage
-Details for future implementations will be provided as the project evolves. Contributions and suggestions are welcome to enhance the device’s functionality and user experience.
+## Publication
+We have published a paper detailing this project:
+**"Enhancing grasping ability with vibrational guidance for individuals who are blind or partially sighted"**  
+[https://doi.org/10.1038/s41598-025-21720-0](https://doi.org/10.1038/s41598-025-21720-0)
 
-For more information and to access the paper, please refer to the documentation provided in this repository.
+### Citation
+Trant, K.C., Bolluk, Z., Mohamed, R.A. et al. *Enhancing grasping ability with vibrational guidance for individuals who are blind or partially sighted.* Sci Rep 15, 38498 (2025).
+
+This publication provides detailed methodology, results, and design considerations.
